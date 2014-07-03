@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eace7f3b-7e14-4681-9d15-8c00c4ed5d73" name="Default" comment="" />
+    <list default="true" id="eace7f3b-7e14-4681-9d15-8c00c4ed5d73" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_4_11.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angularjs.iml" afterPath="$PROJECT_DIR$/angularjs.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="angularjs.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,6 +27,239 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="angularjs" />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="tasksExpandState">
+      <map>
+        <entry key="" value="true" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="angularjs" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="angularjs" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="2808785605105" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="angularjs" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="C:/Program Files/gradle-1.12/src/announce" />
+                  <option value="C:/Program Files/gradle-1.12/src/antlr" />
+                  <option value="C:/Program Files/gradle-1.12/src/base-services" />
+                  <option value="C:/Program Files/gradle-1.12/src/base-services-groovy" />
+                  <option value="C:/Program Files/gradle-1.12/src/build-comparison" />
+                  <option value="C:/Program Files/gradle-1.12/src/build-init" />
+                  <option value="C:/Program Files/gradle-1.12/src/cli" />
+                  <option value="C:/Program Files/gradle-1.12/src/code-quality" />
+                  <option value="C:/Program Files/gradle-1.12/src/core" />
+                  <option value="C:/Program Files/gradle-1.12/src/core-impl" />
+                  <option value="C:/Program Files/gradle-1.12/src/cpp" />
+                  <option value="C:/Program Files/gradle-1.12/src/diagnostics" />
+                  <option value="C:/Program Files/gradle-1.12/src/ear" />
+                  <option value="C:/Program Files/gradle-1.12/src/ide" />
+                  <option value="C:/Program Files/gradle-1.12/src/internal-integ-testing" />
+                  <option value="C:/Program Files/gradle-1.12/src/internal-testing" />
+                  <option value="C:/Program Files/gradle-1.12/src/ivy" />
+                  <option value="C:/Program Files/gradle-1.12/src/jacoco" />
+                  <option value="C:/Program Files/gradle-1.12/src/javascript" />
+                  <option value="C:/Program Files/gradle-1.12/src/jetty" />
+                  <option value="C:/Program Files/gradle-1.12/src/language-base" />
+                  <option value="C:/Program Files/gradle-1.12/src/language-jvm" />
+                  <option value="C:/Program Files/gradle-1.12/src/launcher" />
+                  <option value="C:/Program Files/gradle-1.12/src/maven" />
+                  <option value="C:/Program Files/gradle-1.12/src/messaging" />
+                  <option value="C:/Program Files/gradle-1.12/src/native" />
+                  <option value="C:/Program Files/gradle-1.12/src/open-api" />
+                  <option value="C:/Program Files/gradle-1.12/src/osgi" />
+                  <option value="C:/Program Files/gradle-1.12/src/plugins" />
+                  <option value="C:/Program Files/gradle-1.12/src/publish" />
+                  <option value="C:/Program Files/gradle-1.12/src/reporting" />
+                  <option value="C:/Program Files/gradle-1.12/src/resources" />
+                  <option value="C:/Program Files/gradle-1.12/src/scala" />
+                  <option value="C:/Program Files/gradle-1.12/src/signing" />
+                  <option value="C:/Program Files/gradle-1.12/src/sonar" />
+                  <option value="C:/Program Files/gradle-1.12/src/tooling-api" />
+                  <option value="C:/Program Files/gradle-1.12/src/ui" />
+                  <option value="C:/Program Files/gradle-1.12/src/wrapper" />
+                  <option value="C:/Program Files/gradle-1.12/lib/ant-1.9.3.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/ant-launcher-1.9.3.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/gradle-base-services-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/gradle-base-services-groovy-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/gradle-cli-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/gradle-core-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/gradle-docs-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/gradle-launcher-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/gradle-messaging-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/gradle-native-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/gradle-open-api-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/gradle-resources-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/gradle-tooling-api-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/gradle-ui-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/gradle-wrapper-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/groovy-all-1.8.6.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/ivy-2.2.0.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/ant-antlr-1.9.3.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-announce-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-antlr-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-build-comparison-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-build-init-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-code-quality-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-core-impl-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-cpp-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-diagnostics-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-ear-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-ide-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-ivy-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-jacoco-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-javascript-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-jetty-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-language-base-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-language-jvm-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-maven-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-osgi-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-plugins-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-publish-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-reporting-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-scala-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-signing-1.12.jar" />
+                  <option value="C:/Program Files/gradle-1.12/lib/plugins/gradle-sonar-1.12.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -89,6 +329,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -103,17 +353,7 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -144,19 +384,17 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
       <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -180,6 +418,140 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="BatchConfigurationType" factoryName="Batch">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <list size="0" />
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -192,12 +564,12 @@
       <changelist id="eace7f3b-7e14-4681-9d15-8c00c4ed5d73" name="Default" comment="" />
       <created>1404392797641</created>
       <updated>1404392797641</updated>
-      <workItem from="1404392804499" duration="12000" />
+      <workItem from="1404392804499" duration="256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12000" />
+    <option name="totallyTimeSpent" value="256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
